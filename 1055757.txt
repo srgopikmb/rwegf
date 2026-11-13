@@ -18,10 +18,8 @@ socks://Zmk5OWhmcXk6V1JtVnhpRFI=@dc04.steelproxy.com:3072#%D0%94%D0%9B%D0%AF%20G
 socks5://fi99hfqy:WRmVxiDR@dc04.steelproxy.com:3072#%D0%94%D0%9B%D0%AF%20GEMINI
 
 vless://f2905db1-4c91-48fc-a101-705d1620e279@143.246.205.2:8443?security=tls&encryption=none&type=grpc&sni=ch.gacvpn.site&fp=chrome&alpn=h2&serviceName=connect-ch&mode=gun#🇪🇺 АвтоВыбор
-vless://f2905db1-4c91-48fc-a101-705d1620e279@46.182.24.245:8443?security=tls&encryption=none&type=grpc&sni=lte-pilot.gacvpn.site&fp=chrome&alpn=h2&serviceName=lte-gb&mode=gun#🇪🇺 Авто · только LTE
 vless://f2905db1-4c91-48fc-a101-705d1620e279@nl4.gacvpn.site:443?security=tls&encryption=none&type=ws&sni=nl4.gacvpn.site&fp=firefox&alpn=http%2F1.1&path=%2Fstatic%2Fjs%2Fvendor.cc1645b6.js%3Fed%3D2048&host=nl4.gacvpn.site#🇳🇱 Нидерланды 🌐
 vless://f2905db1-4c91-48fc-a101-705d1620e279@81.17.154.244:8443?security=tls&encryption=none&type=grpc&sni=nl2-edge.gacvpn.site&fp=chrome&alpn=h2&serviceName=connect-gb&mode=gun#🇬🇧 Англия
-vless://f2905db1-4c91-48fc-a101-705d1620e279@81.17.154.244:8443?security=tls&encryption=none&type=xhttp&sni=nl2-edge.gacvpn.site&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fassets%2Fc%2F60b88fe390&host=nl2-edge.gacvpn.site&mode=packet-up#🇬🇧 Англия XHTTP
 vless://f2905db1-4c91-48fc-a101-705d1620e279@81.17.154.244:8443?security=tls&encryption=none&type=grpc&sni=fr2.gacvpn.site&fp=chrome&alpn=h2&serviceName=connect-fr&mode=gun#🇫🇷 Франция
 vless://f2905db1-4c91-48fc-a101-705d1620e279@129.101.104.43:8443?security=tls&encryption=none&type=grpc&sni=nl3-edge.gacvpn.site&fp=firefox&alpn=h2&serviceName=connect-nl3&mode=gun#Нидерланды 🇳🇱🔃➕
 vless://f2905db1-4c91-48fc-a101-705d1620e279@129.101.108.26:8443?security=tls&encryption=none&type=grpc&sni=fi3-edge.gacvpn.site&fp=chrome&alpn=h2&serviceName=connect-fi&mode=gun#🇫🇮 Финляндия
@@ -34,7 +32,6 @@ vless://f2905db1-4c91-48fc-a101-705d1620e279@129.101.104.43:8443?security=tls&en
 vless://f2905db1-4c91-48fc-a101-705d1620e279@129.101.108.26:8443?security=tls&encryption=none&type=ws&sni=bg2.gacvpn.site&fp=firefox&alpn=http%2F1.1&path=%2Fstatic%2Fjs%2Fvendor.f857f795.js%3Fed%3D2048&host=bg2.gacvpn.site#🇧🇬 Болгария
 vless://f2905db1-4c91-48fc-a101-705d1620e279@129.101.104.43:8443?security=tls&encryption=none&type=ws&sni=no-ws.gacvpn.site&fp=firefox&path=%2Fstatic%2Fjs%2Fvendor.43f6b53e.js%3Fed%3D2048&host=no-ws.gacvpn.site#🇳🇴 Норвегия
 vless://f2905db1-4c91-48fc-a101-705d1620e279@129.101.108.26:8443?security=tls&encryption=none&type=ws&sni=us2-ws.gacvpn.site&fp=firefox&path=%2Fstatic%2Fjs%2Fvendor.2e12e7f4.js%3Fed%3D2048&host=us2-ws.gacvpn.site#🇺🇸 США
-vless://f2905db1-4c91-48fc-a101-705d1620e279@46.182.24.245:8443?security=tls&encryption=none&type=grpc&sni=lte-pilot.gacvpn.site&fp=chrome&alpn=h2&serviceName=lte-gb&mode=gun#🇬🇧 LTE-Англия
 vless://f2905db1-4c91-48fc-a101-705d1620e279@46.182.24.245:8443?security=tls&encryption=none&type=grpc&sni=lte-pilot.gacvpn.site&fp=chrome&alpn=h2&serviceName=lte-pl&mode=gun#🇵🇱 LTE-Польша
 vless://f2905db1-4c91-48fc-a101-705d1620e279@46.182.24.245:8443?security=tls&encryption=none&type=grpc&sni=lte-pilot.gacvpn.site&fp=chrome&alpn=h2&serviceName=lte-fr&mode=gun#🇫🇷 LTE-Франция
 vless://f2905db1-4c91-48fc-a101-705d1620e279@46.182.24.245:8443?security=tls&encryption=none&type=grpc&sni=lte-pilot.gacvpn.site&fp=chrome&alpn=h2&serviceName=lte-de&mode=gun#🇩🇪 LTE-Германия
