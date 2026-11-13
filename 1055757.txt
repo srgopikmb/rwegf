@@ -20,3 +20,5 @@ vless://69fea613-93d4-002f-b272-08e064b8771f@94.228.127.120:443?type=xhttp&secur
 vless://69fea613-93d4-0029-b272-08e064b8771f@135.106.143.116:443?type=xhttp&security=reality&fp=chrome&sni=goroskop365.ru&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=3b5b38669a1a51c0&path=/static&mode=packet-up&extra=%7B%22xmux%22:%7B%22cMaxReuseTimes%22:%200,%22hKeepAlivePeriod%22:%200,%22hMaxRequestTimes%22:%20%22600-900%22,%22hMaxReusableSecs%22:%20%221800-3000%22,%22maxConnections%22:%202%7D%7D#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%E2%84%9650
 
 vless://69fea613-93d4-0037-b272-08e064b8771f@135.106.143.116:443?type=xhttp&security=reality&fp=chrome&sni=goroskop365.ru&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=3b5b38669a1a51c0&path=/static&mode=packet-up&extra=%7B%22xmux%22:%7B%22cMaxReuseTimes%22:%200,%22hKeepAlivePeriod%22:%200,%22hMaxRequestTimes%22:%20%22600-900%22,%22hMaxReusableSecs%22:%20%221800-3000%22,%22maxConnections%22:%202%7D%7D#%F0%9F%87%B1%F0%9F%87%BB%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%E2%84%9650
+
+socks://Zmk5OWhmcXk6V1JtVnhpRFI=@dc04.steelproxy.com:3072#%D0%94%D0%9B%D0%AF%20GEMINI
