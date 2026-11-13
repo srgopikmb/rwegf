@@ -23,3 +23,5 @@ vless://69fea613-93d4-0037-b272-08e064b8771f@135.106.143.116:443?type=xhttp&secu
 
 socks://Zmk5OWhmcXk6V1JtVnhpRFI=@dc04.steelproxy.com:3072#%D0%94%D0%9B%D0%AF%20GEMINI
 socks5://fi99hfqy:WRmVxiDR@dc04.steelproxy.com:3072#%D0%94%D0%9B%D0%AF%20GEMINI
+
+https://raw.githubusercontent.com/srgopikmb/rwegf/refs/heads/main/bs.json
